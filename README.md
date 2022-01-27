@@ -1,14 +1,16 @@
-# Skull Key for [Foobar](https://foobar.org)
+# Skull Key for [Termux](https://termux.org)
 
-A Skull Key theme for [Foobar](https://foobar.org).
+A Skull Key theme for [Termux](https://termux.org).
+
+![Screenshot on Termux](/screenshot.jpg)
 
 ## Install
 
-For instructions, visit at https://skull-key.org/foobar.
+For instructions, visit at https://skull-key.org/termux.
 
 ## Team
 
-This theme was following by the bunch of [awesome contributors](https://github.com/skull-key/foobar/graphs/contributors).
+This theme was following by the bunch of [awesome contributors](https://github.com/skull-key/termux/graphs/contributors).
 
 ## License
 
