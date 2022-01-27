@@ -1,17 +1,7 @@
-### [Foobar](https://foobar.com)
+### [Termux](https://termux.com)
 
-#### Install using Git
+#### Install
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-    git clone https://github.com/skull-key/foobar.git
-
-#### Install manually
-
-Download using the [GitHub .zip download](https://github.com/skull-key/foobar/archive/master.zip) option and unzip them.
-
-#### Activating theme
-
-1. Do this
-2. Then that
-3. Boom! It's working
+1. Download the zip file using [GitHub .zip download](https://github.com/skull-key/termux/archive/main.zip)
+2. Copy the `colors.properties` file in the `~/.termux` directory.
+3. Run `termux-reload-settings` to reload the theme.

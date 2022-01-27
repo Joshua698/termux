@@ -1,6 +1,6 @@
-# Skull Key for [Termux](https://termux.org)
+# Skull Key for [Termux](https://termux.com)
 
-A Skull Key theme for [Termux](https://termux.org).
+A Skull Key theme for [Termux](https://termux.com).
 
 ![Screenshot on Termux](/screenshot.jpg)
 
